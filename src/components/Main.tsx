@@ -10,8 +10,22 @@ function Main() {
           width={1250}
         ></img>
       </div>
-      <div> PRODUCTS HERE</div>
-      <div>......</div>
+      <div className="flex flex-col justify-center items-center">
+        <div> PRODUCTS HERE</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+        <div>......</div>
+      </div>
     </div>
   );
 }
